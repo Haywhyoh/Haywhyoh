@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://writeaboutcoding.com](https://writeaboutcoding.com)
 
-- 💬 Ask me about **Web Development, Software Engineering and Technical Writing**
+- 💬 Ask me about **Web Development, Software Engineering, and Technical Writing**
 
 - 📫 How to reach me **adefeyisayo998@gmail.com**
 
