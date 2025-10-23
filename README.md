@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adedayo Ayomide Samuel</h1>
 <h3 align="center">A passionate Software Engineer that solves difficult problems using code.</h3>
 
-- 🔭 I’m currently working on [HillPad](hillpad.com), [Areabox](beta.areabox.ng) .[GraviitalBeats](graviitalbeats.com)
+- 🔭 I’m currently working on [Mecabal](mecabal.com), .[GraviitalBeats](graviitalbeats.com)
 
-- 🌱 I’m currently learning **Laravel, Rust and GO**
+- 🌱 I’m currently learning **AI Engineeing, ML and GO**
 
 - 👨‍💻 All of my projects are available at [https://samueladedayo.vercel.app/](https://samueladedayo.vercel.app/)
 
